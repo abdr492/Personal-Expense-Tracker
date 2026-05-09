@@ -1,0 +1,11 @@
+# This is a Node.js/React project
+# Use 'npm install' to install dependencies from package.json
+# 
+# Key Dependencies:
+# - React 19.0.1
+# - Vite 6.2.3
+# - TailwindCSS 4.1.14
+# - Radix UI components
+# - @google/genai for AI features
+# - Express 4.21.2
+# - Recharts for charting

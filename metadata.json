@@ -1,0 +1,13 @@
+{
+  "name": "FinTrack Pro: Personal Expense Tracker",
+  "description": "A comprehensive personal finance manager featuring AI-powered receipt scanning, automated transaction categorization, multi-currency support, and interactive data visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered Categorization",
+    "Receipt OCR",
+    "Advanced Reporting",
+    "Budget Intelligence"
+  ]
+}
